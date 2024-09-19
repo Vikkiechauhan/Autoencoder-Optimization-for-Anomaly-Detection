@@ -5,6 +5,7 @@ The approach to find anomalies is reconstruction based, the Autoencoder (AE) fir
 
 This repository is the source code of the implementation and experiments of paper **Autoencoder Optimization for Anomaly Detection**.
 
+Most of the dataset were provided by the university supervisor, some were fethced from UCI websites. The tabular dataset contains a variety of datasets.
 
 Paper related to this project is published in IEEE WCCI 2024. Link: https://ieeexplore.ieee.org/document/10650057
 DOI: 10.1109/IJCNN60899.2024.10650057
